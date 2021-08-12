@@ -9,7 +9,7 @@ Current tasklist:
 - [x] File restructure to reflex workflow
 - [x] prepare texture templates
 - [x] Texture Uniforms
-- [ ] Texture Gear
+- [x] Texture Gear
 - [ ] Texture Vehicles
 - [ ] Texture Helikopters
 - [ ] Write Config
