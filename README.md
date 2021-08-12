@@ -8,6 +8,12 @@ Current tasklist:
 - [x] Initial commit
 - [x] File restructure to reflex workflow
 - [x] prepare texture templates
+- [x] Texture Uniforms
+- [ ] Texture Gear
+- [ ] Texture Vehicles
+- [ ] Texture Helikopters
+- [ ] Write Config
+- [ ] Investigate custom AI voice callouts
 
 .....
 
