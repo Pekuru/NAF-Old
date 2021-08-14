@@ -111,7 +111,7 @@ class CfgWeapons
 		};
 		hiddenSelectionsTextures[]=
 		{
-			"\NAF\data\uniforms\tex_uni_tan.paa"
+			"\NAF\data\uniforms\tex_uni_tan.paa",
 			"\NAF\data\uniforms\tex_shirt_brown.paa"
 		};
 		class ItemInfo: ItemInfo
@@ -164,7 +164,7 @@ class CfgWeapons
 		};
 		hiddenSelectionsTextures[]=
 		{
-			"\NAF\data\uniforms\tex_uni_woodland.paa"
+			"\NAF\data\uniforms\tex_uni_woodland.paa",
 			"\NAF\data\uniforms\tex_shirt_brown.paa"
 		};
 		class ItemInfo: ItemInfo
@@ -217,7 +217,7 @@ class CfgWeapons
 		};
 		hiddenSelectionsTextures[]=
 		{
-			"\NAF\data\uniforms\tex_uni_jungle.paa"
+			"\NAF\data\uniforms\tex_uni_jungle.paa",
 			"\NAF\data\uniforms\tex_shirt_brown.paa"
 		};
 		class ItemInfo: ItemInfo
@@ -270,7 +270,7 @@ class CfgWeapons
 		};
 		hiddenSelectionsTextures[]=
 		{
-			"\NAF\data\uniforms\tex_uni_desert.paa"
+			"\NAF\data\uniforms\tex_uni_desert.paa",
 			"\NAF\data\uniforms\tex_shirt_brown.paa"
 		};
 		class ItemInfo: ItemInfo
