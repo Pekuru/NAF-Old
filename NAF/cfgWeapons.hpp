@@ -322,7 +322,7 @@ class CfgWeapons
 		};
 		hiddenSelectionsTextures[]=
 		{
-			"\NAF\data\gear\tex_pc_hev_multi.paa"
+			"\NAF\data\gear\tex_pc_lite_multi.paa"
 		};
 		class ItemInfo: ItemInfo
 		{
@@ -362,7 +362,7 @@ class CfgWeapons
 		};
 		hiddenSelectionsTextures[]=
 		{
-			"\NAF\data\gear\tex_pc_hev_olive.paa"
+			"\NAF\data\gear\tex_pc_lite_olive.paa"
 		};
 		class ItemInfo: ItemInfo
 		{
@@ -382,7 +382,7 @@ class CfgWeapons
 		};
 		hiddenSelectionsTextures[]=
 		{
-			"\NAF\data\gear\tex_pc_hev_olive.paa"
+			"\NAF\data\gear\tex_pc_lite_olive.paa"
 		};
 		class ItemInfo: ItemInfo
 		{
@@ -422,7 +422,7 @@ class CfgWeapons
 		};
 		hiddenSelectionsTextures[]=
 		{
-			"\NAF\data\gear\tex_pc_hev_tan.paa"
+			"\NAF\data\gear\tex_pc_lite_tan.paa"
 		};
 		class ItemInfo: ItemInfo
 		{
@@ -442,7 +442,7 @@ class CfgWeapons
 		};
 		hiddenSelectionsTextures[]=
 		{
-			"\NAF\data\gear\tex_pc_hev_tan.paa"
+			"\NAF\data\gear\tex_pc_lite_tan.paa"
 		};
 		class ItemInfo: ItemInfo
 		{
