@@ -430,4 +430,17 @@ class CfgVehicles
 			"\NAF\data\uniforms\tex_bergen_tan.paa"
 		};
 	};
+  	class B_NAF_Bergen_woodland: B_Bergen_mcamo_F
+	{
+		author="Pek";
+		displayName="Bergen (Woodland)";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"\NAF\data\uniforms\tex_bergen_woodland.paa"
+		};
+	};
 };
