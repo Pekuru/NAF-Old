@@ -1,2 +1,5 @@
 Builds/
 Workfolder/
+.vscode/
+.editorconfig
+.gitattributes
